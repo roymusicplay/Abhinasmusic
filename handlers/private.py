@@ -29,7 +29,7 @@ Add me to your group and play music freely!**
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "➕ Add To Your Group ➕", url="https://t.me/JEGroupMusicPlayerBot?startgroup=true"
+                        "➕ Add To Your Group ➕", url="https://t.me/DOSTI_GROUP_1234?startgroup=true"
                     )]
             ]
         ),
