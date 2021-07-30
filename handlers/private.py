@@ -25,7 +25,7 @@ Add me to your group and play music freely!**
                         "💬 Group", url="https://t.me/DOSTI_GROUP_1234"
                     ),
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/MOVIE_CHANNEL_1234"
+                        "🔊 Father", url="https://t.me/MOVIE_CHANNEL_1234"
                     )
                 ],[ 
                     InlineKeyboardButton(
