@@ -1,5 +1,5 @@
 {
-  "name": "Music Bot",
+  "name": "Abhinasmusic",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
   "repository": "https://github.com/roymusicplay/Abhinasmusic.git",
@@ -33,7 +33,7 @@
     "DURATION_LIMIT": {
       "description": "Max audio duration limit for downloads (minutes).",
       "required": true,
-      "value": "15"
+      "value": "20"
     }
   }
 }
